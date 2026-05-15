@@ -1,4 +1,4 @@
-# 
+# bitmex trading bot smart Strategy | trailing-stop & liquidity-provision is the best bitmex trading bot, featuring trailing-stop and liquidity-provision. Smart, fast, and optimized
 
 
 
